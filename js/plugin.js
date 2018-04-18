@@ -1,5 +1,6 @@
 $(function(){
     'use strict';
+    $("#loading").fadeOut(500);
   var typed3 = new Typed('#ppp', {
     strings: ['I have 3 years of professional experience in developing websites based on webstandard technologies like HTML5, CSS, jquery, bootstrap, sass.'],
     typeSpeed: 20,
